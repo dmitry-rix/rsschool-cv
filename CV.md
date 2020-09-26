@@ -3,10 +3,10 @@
 Minsk, Belarus\
 *+375 33 377 55 53* `(Telegram, Skype, Viber)`\
 Email: <dmitrij.ryzhikov.88@mail.ru>\
-Linkedin <https://www.linkedin.com/in/дмитрий-рыжиков-2b4633158/>\
+Linkedin <https://www.linkedin.com/in/дмитрий-рыжиков-2b4633158/>
 
 ### Profile
-Successfully passed Software Testing courses. I am constantly engaged in self-education, read professional literature and perform test tasks on a freelance website, communicate with people from this area.\ I enjoy of learning new technologies and using them. Able to work in a team.\
+Successfully passed Software Testing courses. I am constantly engaged in self-education, read professional literature and perform test tasks on a freelance website, communicate with people from this area. I enjoy of learning new technologies and using them. Able to work in a team.
 
 ### Experience
 * August 2019 - Present time – freelance at the “uTest.com”
