@@ -1,5 +1,5 @@
 ## Dmitry Ryzhikov
-**Junior QA Engineer**
+**Junior QA Engineer**\
 Minsk, Belarus\
 *+375 33 377 55 53* `(Telegram, Skype, Viber)`\
 Email: <dmitrij.ryzhikov.88@mail.ru>\
@@ -10,7 +10,7 @@ Successfully passed Software Testing courses. I am constantly engaged in self-ed
 
 ### Experience
 * August 2019 - Present time – freelance at the “uTest.com”
-Mainly functional and usability testing of Web applications. Several cycles of mobile testing.\ Using exploratory approach in testing and also scripted one (depended on the project). Executing ready test-cases, creating bug reports inside the “uTest” platform.\
+Mainly functional and usability testing of Web applications. Several cycles of mobile testing. Using exploratory approach in testing and also scripted one (depended on the project). Executing ready test-cases, creating bug reports inside the “uTest” platform.
 * October 2018 – October 2019 – Product Acceptance Leading Specialist at “Evroopt”
 * January 2016 – October 2018 – Seller at “Evroopt”
 * 2012 - 2016 – Roofer
@@ -22,7 +22,7 @@ Mainly functional and usability testing of Web applications. Several cycles of m
 * 2020 January – 2020 February “Software Testing Introduction” internal course at “EPAM Systems”
 * 2018 January – 2018 May – Software Testing Course at Educational Center “Skillup”
 * 2006 - 2011 – “Baranovichi State University” (full-time education)
-Specialty – English. German.\
+Specialty – English. German.
 
 ### Skills
 * Understanding of the development process and software life cycle
@@ -31,8 +31,8 @@ Specialty – English. German.\
 * Creating and executing of test-cases and check-lists
 * Have experience in using bug tracking system (Jira)
 * Basic knowledge of HTML, CSS, SQL, Selenium IDE
-* Familiar with the following tools:\ 
-Browser developer tools, Charles proxy, ADB, Postman.\
+* Familiar with the following tools:
+Browser developer tools, Charles proxy, ADB, Postman.
 * Very basic of JavaScript programming language
 * English language – intermediate level (B1)
 
